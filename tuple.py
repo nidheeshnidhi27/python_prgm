@@ -1,2 +1,2 @@
-subject=("eng","mala","maths")
+subject=("english","mala","maths")
 print (subject)
