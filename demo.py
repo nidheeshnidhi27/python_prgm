@@ -4,3 +4,4 @@ def add(x,y):
 def sub(x,y):
     k=x-y
     print(k)
+    print(__name__)
