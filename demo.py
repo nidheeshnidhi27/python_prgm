@@ -4,8 +4,3 @@ def add(x,y):
 def sub(x,y):
     k=x-y
     print(k)
-
-a=15
-b=10
-add(a,b)
-sub(a,b)
